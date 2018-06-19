@@ -1,5 +1,0 @@
-Z:\Toonkit\RnD\Src\GitRepo\oscar\src\Authenticator\bin\Release\Authenticator.dll
-Z:\Toonkit\RnD\Src\GitRepo\oscar\src\Authenticator\bin\Release\Authenticator.pdb
-Z:\Toonkit\RnD\Src\GitRepo\oscar\src\Authenticator\obj\Release\Authenticator.dll
-Z:\Toonkit\RnD\Src\GitRepo\oscar\src\Authenticator\obj\Release\Authenticator.pdb
-Z:\Toonkit\RnD\Src\GitRepo\Oscar\src\Authenticator\obj\Release\Authenticator.csprojResolveAssemblyReference.cache
