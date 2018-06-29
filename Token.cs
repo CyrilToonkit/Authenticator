@@ -25,7 +25,7 @@ namespace Authenticator
             {
                 File.WriteAllText(inPath, _value);
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 return false;
             }
@@ -39,7 +39,7 @@ namespace Authenticator
             {
                 _value = File.ReadAllText(inPath);
             }
-            catch (Exception e)
+            catch (Exception)
             {
                 return false;
             }
